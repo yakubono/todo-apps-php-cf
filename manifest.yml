@@ -1,7 +1,7 @@
 ---
 applications:
-- name: todo-apps
+- name: todo-apps-yakubono
   memory: 256M
   instances: 1
-  host: todo-apps
+  host: todo-apps-yakubono
   domain: 10.244.0.34.xip.io
